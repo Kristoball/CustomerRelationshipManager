@@ -28,10 +28,11 @@
   Cookies will be used to store session tokens.
     
   ## Back-end
-  See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer
+  See `html to pdf` under [Important Links](./README.md/#important-links) which does the conversion for me so i dont have to set up puppeteer
 
   ## DB
-  See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer  
+  Will be using mongo db, since the content from the text enditor already is in json format.
+    
     
 # Important links
   Imporant links for research
