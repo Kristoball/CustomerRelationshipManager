@@ -4,7 +4,9 @@
   The logs should be able to be download as a pdf by the click of a button.
 
 # Table of content
-  01. [UseCase](./README.md/#UseCase)
+  01. [UseCase](./README.md/#usecase)
+  01. [Technologies](./README.md/#technologies)
+  01. [Important Links](./README.md/#important-links)
 
 # UseCase
   User shuold
