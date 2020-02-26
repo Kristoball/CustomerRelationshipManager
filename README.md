@@ -15,11 +15,11 @@
   07. be able to download a specific customer log.
   
 # Technologies:
-  Front-end
+  ## Front-end
     User interface will be created with react. The editor for the logs will use "editor js".
     Cookies will be used to store session tokens.
     
-  Back-end
+  ## Back-end
     See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer  
     
 # Important links
