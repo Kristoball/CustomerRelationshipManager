@@ -26,6 +26,7 @@
   ## Front-end
   User interface will be created with react. The editor for the logs will use "editor js".
   Cookies will be used to store session tokens.
+  https://www.youtube.com/watch?v=UBOj6rqRUME
     
   ## Back-end
   See `html to pdf` under [Important Links](./README.md/#important-links) which does the conversion for me so i dont have to set up puppeteer
