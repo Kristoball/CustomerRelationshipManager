@@ -3,8 +3,11 @@
   My users should be able to create and update cusomers, and for each cusomer be able to create logs. 
   The logs should be able to be download as a pdf by the click of a button.
 
+# Table of content
+  01. [UseCase](./README.md/#UseCase)
+
 # UseCase
-    User shuold
+  User shuold
   01. be able to log in to system.
   02. be able to see existing customers.
   03. be able to edit existing customers.
@@ -16,14 +19,14 @@
   
 # Technologies:
   ## Front-end
-    User interface will be created with react. The editor for the logs will use "editor js".
-    Cookies will be used to store session tokens.
+  User interface will be created with react. The editor for the logs will use "editor js".
+  Cookies will be used to store session tokens.
     
   ## Back-end
-    See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer  
+  See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer  
     
 # Important links
-    Imporant links for research
+  Imporant links for research
   01. https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac
   02. [Editor js](https://editorjs.io/)
   03. [Create pdf from Puppeteer](https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/#option2)
