@@ -6,6 +6,9 @@
 # Table of content
   01. [UseCase](./README.md/#usecase)
   01. [Technologies](./README.md/#technologies)
+    01. [Front-end](./README.md/#front-end)
+    01. [Back-end](./README.md/#back-end)
+    01. [DB](./README.md/#db)
   01. [Important Links](./README.md/#important-links)
 
 # UseCase
@@ -25,6 +28,9 @@
   Cookies will be used to store session tokens.
     
   ## Back-end
+  See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer
+
+  ## DB
   See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer  
     
 # Important links
