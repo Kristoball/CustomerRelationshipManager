@@ -1,6 +1,6 @@
 # CustomerRelationshipManager
   Creating a project for customer management where i want to create a login screen for the users. 
-  My users should be able to create and update cusomers, and for each cusomer be able to create a log. 
+  My users should be able to create and update cusomers, and for each cusomer be able to create logs. 
   The logs should be able to be download as a pdf by the click of a button.
 
 # UseCase
