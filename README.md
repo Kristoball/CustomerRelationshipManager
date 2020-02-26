@@ -6,9 +6,9 @@
 # Table of content
   01. [UseCase](./README.md/#usecase)
   01. [Technologies](./README.md/#technologies)
-    - [Front-end](./README.md/#front-end)
-    - [Back-end](./README.md/#back-end)
-    - [DB](./README.md/#db)
+      - [Front-end](./README.md/#front-end)
+      - [Back-end](./README.md/#back-end)
+      - [DB](./README.md/#db)
   01. [Important Links](./README.md/#important-links)
 
 # UseCase
