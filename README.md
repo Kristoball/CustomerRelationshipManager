@@ -4,14 +4,14 @@
   The logs should be able to be download as a pdf by the click of a button.
 
 # Table of content
-  01. [UseCase](./README.md/#usecase)
+  01. [UseCase/Todos](./README.md/#usecase)
   01. [Technologies](./README.md/#technologies)
       - [Front-end](./README.md/#front-end)
       - [Back-end](./README.md/#back-end)
       - [DB](./README.md/#db)
   01. [Important Links](./README.md/#important-links)
 
-# UseCase
+# UseCase/Todos
   User shuold
   - [ ] be able to log in to system.
   - [ ] be able to see existing customers.
