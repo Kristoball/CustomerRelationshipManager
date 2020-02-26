@@ -19,8 +19,12 @@
     User interface will be created with react. The editor for the logs will use "editor js".
     Cookies will be used to store session tokens.
     
+  Back-end
+    See `html to pdf` under `Important links` which does the conversion for me so i dont have to set up puppeteer  
+    
 # Important links
     Imporant links for research
   01. https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac
   02. [Editor js](https://editorjs.io/)
   03. [Create pdf from Puppeteer](https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/#option2)
+  04. [html to pdf](https://www.npmjs.com/package/convert-html-to-pdf) 
