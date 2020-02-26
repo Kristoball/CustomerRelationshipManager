@@ -13,7 +13,7 @@
 
 # UseCase
   User shuold
-  - [] be able to log in to system.
+  -[] be able to log in to system.
   - [] be able to see existing customers.
   - [] be able to edit existing customers.
   - [] be able to find contact info and other relevant info stored about the customers.
