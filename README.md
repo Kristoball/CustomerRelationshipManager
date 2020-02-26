@@ -19,7 +19,7 @@
     User interface will be created with react. The editor for the logs will use "editor js".
     Cookies will be used to store session tokens.
     
-# important links
+# Important links
     Imporant links for research
   01. https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac
   02. https://editorjs.io/
