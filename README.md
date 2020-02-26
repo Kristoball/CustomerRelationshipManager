@@ -20,6 +20,7 @@
     Cookies will be used to store session tokens.
     
 # important links
-  https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac
-  https://editorjs.io/
-  https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/#option2
+    Imporant links for research
+  01. https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac
+  02. https://editorjs.io/
+  03. https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/#option2
