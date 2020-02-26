@@ -13,14 +13,14 @@
 
 # UseCase
   User shuold
-  -[] be able to log in to system.
-  - [] be able to see existing customers.
-  - [] be able to edit existing customers.
-  - [] be able to find contact info and other relevant info stored about the customers.
-  - [] be able to create new customers.
-  - [] be able to create a new customer log, in which should have a nice and intuitive editor interface.
-  - [] be able to save the customer log, and update it later.
-  - [] be able to download a specific customer log.
+  - [ ] be able to log in to system.
+  - [ ] be able to see existing customers.
+  - [ ] be able to edit existing customers.
+  - [ ] be able to find contact info and other relevant info stored about the customers.
+  - [ ] be able to create new customers.
+  - [ ] be able to create a new customer log, in which should have a nice and intuitive editor interface.
+  - [ ] be able to save the customer log, and update it later.
+  - [ ] be able to download a specific customer log.
   
 # Technologies:
   ## Front-end
