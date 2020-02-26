@@ -22,5 +22,5 @@
 # Important links
     Imporant links for research
   01. https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac
-  02. [editor js](https://editorjs.io/)
+  02. [Editor js](https://editorjs.io/)
   03. https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/#option2
