@@ -1,0 +1,19 @@
+{
+  "name": "crmapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build-css": "npx tailwindcss build ./css/style.css -o ./statics/style.css"
+  },
+  "author": "Netcode AS",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "tailwindcss": "^1.2.0"
+  }
+}
