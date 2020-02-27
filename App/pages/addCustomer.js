@@ -1,14 +1,14 @@
 import Layout from '../components/Layout';
 import CustomerList from '../components/CustomerList';
 
-const Index = () =>{
+const addCustomer = () =>{
     return(
         <>
-        <Layout pageName={"Customers"}>
-            <CustomerList/>
+        <Layout pageName={"Add customer"}>
+            {/* <CustomerList/> */}
         </Layout>
         </>
     );
 }
 
-export default Index;
+export default addCustomer;
