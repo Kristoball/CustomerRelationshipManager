@@ -8,11 +8,11 @@ const Layout = (props) =>{
         <Head>
             <title>Netcode CRM | index</title>
         </Head>
-        <div className="block h-screen bg-blue-600">
+        <div className="block h-screen bg-gray-300">
             <nav className="flex w-screen content-center h-20 bg-gray-800">
             <a href="/"><h1 className="pr-6 pl-6 pt-6 text-white font-bold font-medium">Netcode CRM</h1></a>
                 <ul className="flex">
-                    <a href="/"  className="pr-6 pl-6 pt-6 text-white hover:text-gray-800 hover:bg-gray-500"><li>
+                    <a href="/" className="pr-6 pl-6 pt-6 text-white hover:text-gray-800 hover:bg-gray-500"><li>
                         Customers
                     </li></a>
                 </ul>
