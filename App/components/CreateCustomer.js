@@ -11,11 +11,12 @@ const CreateCustomer = () =>{
 
     const handleCreateCustomer = (e) =>{
         e.preventDefault();
-
+        
     }
 
 
-    return(<div className="block w-full h-auto p-8 bg-gray-400">
+    return(
+    <div className="block w-full h-auto p-8 bg-gray-400">
         <form onSubmit={handleCreateCustomer}>
             <table className="w-full">
                 <tbody>
@@ -28,7 +29,8 @@ const CreateCustomer = () =>{
                 </tbody>
             </table>
         </form>
-    </div>);
+    </div>
+    );
 }
 
 

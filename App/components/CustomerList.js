@@ -49,14 +49,14 @@ const CustomerList = ({setPageName}) =>{
                     
                         {customers.map((customer, i)=>(
                         <tr key={customer.name} className={i%2==0?'bg-gray-500':'bg-gray-400'}>
-                            <td onClick={e=>setPageName("View customer")} className="p-2"><a href="/viewCustomer">{customer.name}</a></td>
+                            <td onClick={e=>setPageName("View customer")} className="p-2"><a>{customer.name}</a></td>
                             <td className="p-2">{customer.date}</td>
                             <td className="p-2">{customer.numLogs}</td>
                         </tr>))}
                     
                 </tbody>
             </table>
-            <button onClick={e=>setPageName("Add cutomer")} className="block w-40 p-2 mt-4 bg-blue-500" >+Add Customer</button>
+            <button onClick={e=>setPageName("Add customer")} className="block w-40 p-2 mt-4 bg-blue-500" >+Add Customer</button>
         </div>
     );
 }

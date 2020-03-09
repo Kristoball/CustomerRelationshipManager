@@ -1,8 +1,8 @@
 import Layout from '../components/Layout';
-
 import CustomerList from '../components/CustomerList';
 import CreateCustomer from '../components/CreateCustomer';
-import PageNotFound from '../components/CreateCustomer';
+import PageNotFound from '../components/PageNotFound';
+import ViewCustomer from '../components/ViewCustomer';
 
 import React, {useEffect, useState} from 'react';
 
@@ -16,7 +16,8 @@ const Index = () =>{
                     return <CustomerList setPageName={setPageName}/>
                 case 'Add customer':
                     return <CreateCustomer/>
-            
+                case 'View customer':
+                    return <ViewCustomer/>
                 default:
                     return <PageNotFound/>
             }
