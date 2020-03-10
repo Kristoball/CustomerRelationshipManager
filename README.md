@@ -21,6 +21,9 @@
   - [ ] be able to create a new customer log, in which should have a nice and intuitive editor interface.
   - [ ] be able to save the customer log, and update it later.
   - [ ] be able to download a specific customer log.
+
+  Todo
+  - [ ] setup different access levels for different users
   
 # Technologies:
   ## Front-end
